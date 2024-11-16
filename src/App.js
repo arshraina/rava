@@ -2,7 +2,7 @@ import React from 'react';
 import VideoPlayer from './VideoPlayer';
 
 const App = () => {
-    const playbackUrl = "https://3d26876b73d7.us-west-2.playback.live-video.net/api/video/v1/us-west-2.913157848533.channel.rkCBS9iD1eyd.m3u8";
+    const playbackUrl = "https://9a41b9a5b15d.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.390403890116.channel.pPKZ46F7OCAD.m3u8";
 
     return (
         <div>
