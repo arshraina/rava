@@ -1,4 +1,4 @@
-import React, { useRef, useEffect, useState } from 'react';
+import React, { useRef, useState } from 'react';
 import Hls from 'hls.js';
 import { Button, Spin, Typography, Card, Row, Col } from 'antd';
 import { PlayCircleOutlined } from '@ant-design/icons';
