@@ -6,7 +6,7 @@ const { Header, Footer, Content } = Layout;
 const { Title } = Typography;
 
 const App = () => {
-    const playbackUrl = "https://9a41b9a5b15d.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.390403890116.channel.cmQbPbl3kFBm.m3u8";
+    const playbackUrl = "https://9a41b9a5b15d.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.390403890116.channel.2yaKi1MVeD7c.m3u8";
 
     return (
         <Layout style={{ minHeight: '100vh', background: '#f0f2f5' }}>
